@@ -8,3 +8,9 @@ Personnal details:
 * Mother language: Russian
 * Naionnality: Belarusian
 * Situation: Single
+## CAREER OBJECTIVE:
+My goal is to improve my programming skills and get to know a lot of specialists in this field.
+## WORK EXPRIENCE:
+No work experience
+## EDUCATION
+I studied on my own
