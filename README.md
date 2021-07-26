@@ -1,2 +1,1 @@
-# rsschool-cv
-cv
+# https://pastman001.github.io/rsschool-cv/cv
