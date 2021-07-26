@@ -19,3 +19,4 @@ HTML CSS JS
 ## INTEREST
 * Reading historical novels as well as modern literature
 * Playing chess at an amateur level
+* Gaming
