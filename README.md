@@ -1,1 +1,1 @@
-# https://pastman001.github.io/rsschool-cv/rsschool-cv/
+# https://pastman001.github.io/rsschool-cv/
