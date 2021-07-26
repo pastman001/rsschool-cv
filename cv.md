@@ -14,3 +14,8 @@ My goal is to improve my programming skills and get to know a lot of specialists
 No work experience
 ## EDUCATION
 I studied on my own
+## SKILLS
+HTML CSS JS
+## INTEREST
+* Reading historical novels as well as modern literature
+* Playing chess at an amateur level
